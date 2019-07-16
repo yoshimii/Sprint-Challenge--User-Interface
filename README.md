@@ -34,15 +34,25 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is used to organize our content and give it meaning. When marking up content you aren’t styling it yet but preparing it to be styled. For example, if we’re talking about a news article, you would call the title a header and each paragraph in the article would be labeled a paragraph. So even without seeing the styling or formatting you will be able to tell what this would or could look like when it’s all laid out, say on paper or in a browser.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+“display: block;” arranges elements vertically and “display: inline;” arranges elements horizontally. 
 
 3. What are the 4 areas of the box model?
 
+	Border sits on the outer edge of the padding, if there is one. 
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+“align-items: center;” works on the vertical or cross axis. 
 
 5. Explain why git is valuable to a team of developers.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
+
+Git allows several developers to work on the same project remotely. This means that a team member can be anywhere around the world (with power and internet) and contribute to a project. It also has tools to handle conflicts between two merging files which saves a lot of time. It is all around convenient for the developer and the company to be able to work on a project file without having to have to constantly gather bodies into one room to discuss/suggest changes, or assign and deliver work.
 
 ## Project Set Up
 
